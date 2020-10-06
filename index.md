@@ -10,8 +10,9 @@ A collection of icon packs for use with [IconPackager™](https://www.stardock.c
 
 ![](https://www.stardock.com/products/iconpackager/images/IP10/IP10_Side-By-Side_thumb.jpg)
 
+---
 
-**__Key Features__**
+## Key Features
 
 - Replace default Windows icons with icon packages
 - Change individual file type icons
