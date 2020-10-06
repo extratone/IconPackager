@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# IconPackager
+A collection of icon packs for use with [IconPackager™](https://www.stardock.com/products/iconpackager/)
 
-You can use the [editor on GitHub](https://github.com/newhorizon-development/IconPackager/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://www.stardock.com/products/iconpackager/images/banner.jpg)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Change your Windows® desktop icons instantly with IconPackager™
 
-```markdown
-Syntax highlighted code block
+![](https://www.stardock.com/products/iconpackager/images/IP10/IP10_Side-By-Side_thumb.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**__Key Features__**
 
-1. Numbered
-2. List
+- Replace default Windows icons with icon packages
+- Change individual file type icons
+- Recolor icon packages
+- Windows 7, 8, 10 support
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Credits
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newhorizon-development/IconPackager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [IconPackager™](https://www.stardock.com/products/iconpackager/) is the trademarked property of [Stardock](https://www.stardock.com/)
