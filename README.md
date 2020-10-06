@@ -12,17 +12,15 @@ A collection of icon packs for use with [IconPackager™](https://www.stardock.c
 
 
 **__Key Features__**
-[list]
-[*] Replace default Windows icons with icon packages
-[*] Change individual file type icons
-[*] Recolor icon packages
-[*] Windows 7, 8, 10 support
-[/list]
+
+- Replace default Windows icons with icon packages
+- Change individual file type icons
+- Recolor icon packages
+- Windows 7, 8, 10 support
+
 
 ---
 
 ## Credits
 
-[list]
-[*] [IconPackager™](https://www.stardock.com/products/iconpackager/) is the trademarked property of [Stardock](https://www.stardock.com/)
-[/list]
+- [IconPackager™](https://www.stardock.com/products/iconpackager/) is the trademarked property of [Stardock](https://www.stardock.com/)
